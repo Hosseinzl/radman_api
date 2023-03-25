@@ -7,6 +7,6 @@ In package manager console, run `Add-Migration initial` + `Update-Database` to g
 In directory of project run `dotnet run seeddata` to add data from Data\seed.cs to database
 
 # Authentication
-Authentication is performed via JWT Bearer Authentication. For example perfile endpoint require authentication, so you will need to add the following header to each request
+Authentication is performed via JWT Bearer Authentication. For example profile endpoint require authentication, so you will need to add the following header to each request
 
 `Authorization: Bearer <TOKEN>`
