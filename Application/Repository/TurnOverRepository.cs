@@ -1,7 +1,6 @@
 ﻿using Application.Data;
 using Application.Dto;
 using Application.interfaces;
-using Application.Migrations;
 using Application.Model;
 using AutoMapper;
 
